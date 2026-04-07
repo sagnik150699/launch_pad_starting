@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sagnik150699/Sagnik-Bhattacharya/master/public/sagnik-bhattacharya.png" alt="Sagnik Bhattacharya" width="180">
+</p>
+Website: [sagnikbhattacharya.com](https://sagnikbhattacharya.com)
+
 # Flutter Launch Pad Starter 🚀
 
 Welcome to **Coding Liquids' Complete Flutter Guide: Build Android, iOS, and Web by Coding Liquids!** 
